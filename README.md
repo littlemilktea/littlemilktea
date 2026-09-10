@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Witit 👋
 
-<!--
-**littlemilktea/littlemilktea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend-focused software developer transitioning from science communication, with an interest in building reliable, maintainable, and evidence-driven software.
 
-Here are some ideas to get you started:
+My background in science writing shapes how I approach software: understand the evidence, make assumptions explicit, and communicate complex systems clearly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech
+
+- **Languages:** Java, JavaScript, SQL, Python
+- **Backend:** Spring Boot, FastAPI
+- **Frontend:** HTML, CSS, JavaScript, Next.js
+- **Database:** PostgreSQL
+- **Tools:** Git, Maven, Docker
+- **Practices:** REST APIs, automated testing, evidence-based verification
+
+## 🚧 Featured Projects
+
+### Fleet Management System
+
+A production-oriented fleet management system for employee transportation operations.
+
+Built with **Java, Spring Boot, PostgreSQL, Thymeleaf, Maven, and JUnit**, with an emphasis on business rules, lifecycle management, validation, testing, and maintainable architecture.
+
+### Sky Analysis
+
+A privacy-focused astronomical image analysis application integrating scientific tools such as **Astrometry.net**.
+
+Built with **FastAPI, Next.js, PostgreSQL, and MinIO**, with an emphasis on scientific evidence, privacy, explicit uncertainty, lifecycle integrity, and automated testing.
+
+## 🔬 Background
+
+Before moving into software development, I worked in science communication, covering science, nature, psychology, climate, and astronomy for **Environman** and **National Geographic Thailand**.
